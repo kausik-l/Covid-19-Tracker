@@ -4,6 +4,8 @@ I built this tool to track the number of COVID-19 cases worldwide, including add
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and was deployed using Google Firebase.
 
+<img width="1168" height="783" alt="Screenshot 2025-07-14 at 3 40 52 PM" src="https://github.com/user-attachments/assets/2b72daad-1781-4e6d-a90e-51781b8a6118" />
+
 ## Available Scripts
 
 In the project directory, you can run:
