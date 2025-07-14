@@ -2,7 +2,7 @@
 
 I built this tool to track the number of COVID-19 cases worldwide, including additional statistics such as the number of deaths and recoveries. The deployed tool can be found [here](https://covid-19-tracker-522f3.web.app/).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and was deployed using Google Firebase.
 
 ## Available Scripts
 
